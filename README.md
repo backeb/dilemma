@@ -1,5 +1,5 @@
 # DILEMMA
-Pre **D** **I** cting Agu **L** has Curr **E** nt **M** eanders using **M** achine Le **A** rning
+_Pre_**DI**_cting Agu_**L**_has Curr_**E**_nt_ **M**_eanders using_ **M** _achine _Le_**A**_rning_
 
 Author(s): [Bjorn Backeberg](mailto:backeb@gmail.com) (backeb), [Fine Wilms](mailto:fine.wilms@gmail.com) (FineWilms) <br>
 Creation date: 20-Mar-2020 <br>
