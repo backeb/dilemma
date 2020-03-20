@@ -1,0 +1,11 @@
+name: dilemma
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - dask
+  - jupyter
+  - pip:
+    - 
