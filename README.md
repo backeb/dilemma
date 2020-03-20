@@ -1,8 +1,7 @@
 # DILEMMA
 Pre**D**Icting Agu**L**has Curr**E**nt **M**eanders using **M**achine Le**A**rning
 
-Author(s): [Bjorn Backeberg](mailto:backeb@gmail.com) (backeb) <br>
-           [Fine Wilms](mailto:fine.wilms@gmail.com) (FineWilms) <br>
+Author(s): [Bjorn Backeberg](mailto:backeb@gmail.com) (backeb), [Fine Wilms](mailto:fine.wilms@gmail.com) (FineWilms) <br>
 Creation date: 20-Mar-2020 <br>
 Last updated:  20-Mar-2020 <br>
 
