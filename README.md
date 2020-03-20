@@ -1,8 +1,8 @@
 # DILEMMA
 Pre**D**Icting Agu**L**has Curr**E**nt **M**eanders using **M**achine Le**A**rning
 
-Author(s): 	[Bjorn Backeberg](mailto:backeb@gmail.com) (backeb) <br>
-			[Fine Wilms](mailto:fine.wilms@gmail.com) (FineWilms) <br>
+Author(s): [Bjorn Backeberg](mailto:backeb@gmail.com) (backeb) <br>
+           [Fine Wilms](mailto:fine.wilms@gmail.com) (FineWilms) <br>
 Creation date: 20-Mar-2020 <br>
 Last updated:  20-Mar-2020 <br>
 
@@ -20,10 +20,10 @@ Currently using Python 3.7.1
 ```
 |- CHANGELOG.md
 |- README.md
-|- docs:                                    Relevant documentation and papers
-|- app:                                     Main code base
+|- docs:                       Relevant documentation and papers
+|- app:                        Main code base
 	|- ...
-|- data:									Data (not pushed to repo, specified in .gitignore)
-|- notebooks:                               Development notebooks
-    |- make_datastack.ipynb:    			Interactive notebook that downloads and organises data
+|- data:                       Data (not pushed to repo, specified in .gitignore)
+|- notebooks:                  Development notebooks
+    |- make_datastack.ipynb:   Interactive notebook that downloads and organises data
 ```
